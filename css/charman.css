@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{ 
+  display: flex;
+  margin: 20px auto;
+}
+
+body{
+ 
+
+}
+
+.container{
+  width: calc(100vw / 2);
+  min-width: 450px;
+
+}
+
+.margin-aumma{
+  margin-left: -3px;
+}
+
+.box{
+  width: 50px;
+  height: 50px;
+}
+
+.red{
+  background-color: #E54A38;
+}
+
+.orange{
+  background-color: #F28F06;
+}
+
+.black{
+  background-color: #353A34;
+}
+
+.yellow{
+  background-color: #F3E601;
+}
+
+.gray{
+  background-color: #D0D2CF;
+}
